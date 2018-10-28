@@ -1,0 +1,10 @@
+#########################################
+#	Syntax coloring map		#
+#########################################
+
+
+Clavier	KEYWORD1
+
+
+init	KEYWORD2
+saisie	KEYWORD2
