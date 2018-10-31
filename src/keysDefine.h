@@ -1,4 +1,15 @@
-#define numOfPages 4
+#include <Arduino.h>
+#define numOfPages 7
+#define PAGE_DOWN 1
+#define CTRL2 2
+#define CTRL3 3
+#define CTRL4 4
+#define PAGE_UP 5
+#define CTRL6 6
+#define CTRL7 7
+#define STOP 8
+#define PLAY 9
+/*
 byte valeurSorties[numOfPages][5][5] ={
   {// scene1  //
     { 1 , 2 , 3 , 4 , 5 },
@@ -29,16 +40,4 @@ byte valeurSorties[numOfPages][5][5] ={
     { 49, 50, 51, 52, 9 }
   }
 };
-
-
-
-
-#define PAGE_DOWN 1
-#define CTRL2 2
-#define CTRL3 3
-#define CTRL4 4
-#define PAGE_UP 5
-#define CTRL6 6
-#define CTRL7 7
-#define STOP 8
-#define PLAY 9
+*/
